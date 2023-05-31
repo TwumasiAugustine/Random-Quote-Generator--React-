@@ -1,0 +1,288 @@
+{
+    "data": {
+        "quotes": [
+            {
+                "id": 1,
+                "author": "Albert Einstein",
+                "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 2,
+                "author": "Walt Disney",
+                "quote": "All our dreams can come true if we have the courage to pursue them.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 3,
+                "author": "Thomas Edison",
+                "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 4,
+                "author": "Abraham Lincoln",
+                "quote": "The best way to predict your future is to create it.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 5,
+                "author": "Usain Bolt",
+                "quote": "I've lost almost 300 games. 26 times I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 6,
+                "author": "Vince Lombardi",
+                "quote": "The price of success is hard work, dedication to the job at hand, and the determination that whether we win or lose, we have applied the best of ourselves to the task at hand.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 7,
+                "author": "Michael Jordan",
+                "quote": "I've missed more than 9,000 shots in my career. I've lost almost 300 games. Twenty-six times, I've been trusted to take the game-winning shot and missed. I've failed over and over and over again in my life. And that is why I succeed.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 8,
+                "author": "Napoleon Hill",
+                "quote": "Effort only fully releases its reward after a person refuses to quit.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 9,
+                "author": "Steve Jobs",
+                "quote": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 10,
+                "author": "Helen Keller",
+                "quote": "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, ambition inspired, and success achieved.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 11,
+                "author": "Babe Ruth",
+                "quote": "It's hard to beat a person who never gives up.",
+                "likes": 0,
+                "dislikes": 0
+        
+        
+            },
+            {
+                "id": 12,
+                "author": "J.K. Rowling",
+                "quote": "Rock bottom became the solid foundation on which I rebuilt my life.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 13,
+                "author": "Michael Phelps",
+                "quote": "You can't put a limit on anything. The more you dream, the farther you get.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 14,
+                "author": "Oprah Winfrey",
+                "quote": "The biggest adventure you can take is to live the life of your dreams.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 15,
+                "author": "Henry Ford",
+                "quote": "Whether you think you can, or you think you can't — you're right.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 16,
+                "author": "Winston Churchill",
+                "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 17,
+                "author": "Maya Angelou",
+                "quote": "You may encounter many defeats, but you must not be defeated. In fact, it may be necessary to encounter the defeats, so you can know who you are, what you can rise from, how you can still come out of it.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 18,
+                "author": "Muhammad Ali",
+                "quote": "I hated every minute of training, but I said, 'Don't quit. Suffer now and live the rest of your life as a champion.'",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 19,
+                "author": "Nelson Mandela",
+                "quote": "It always seems impossible until it's done.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 20,
+                "author": "Elon Musk",
+                "quote": "Persistence is very important. You should not give up unless you are forced to give up.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 21,
+                "author": "Dwayne Johnson",
+                "quote": "Success isn't always about 'greatness'. It's about consistency. Consistent hard work leads to success. Greatness will come.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 22,
+                "author": "Malcolm X",
+                "quote": "The future belongs to those who prepare for it today.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 23,
+                "author": "Bill Gates",
+                "quote": "Success is a lousy teacher. It seduces smart people into thinking they can't lose.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 24,
+                "author": "Michelle Obama",
+                "quote": "Success isn't about how much money you make; it's about the difference you make in people's lives.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 25,
+                "author": "Vince Lombardi",
+                "quote": "The only place success comes before work is in the dictionary.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 26,
+                "author": "Ralph Waldo Emerson",
+                "quote": "The reward of a thing well done is to have done it.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 27,
+                "author": "Johann Wolfgang von Goethe",
+                "quote": "Knowing is not enough; we must apply. Willing is not enough; we must do.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 28,
+                "author": "John D. Rockefeller",
+                "quote": "I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 29,
+                "author": "Ruth Bader Ginsburg",
+                "quote": "So often in life, things that you regard as an impediment turn out to be great, good fortune.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 30,
+                "author": "Bruce Lee",
+                "quote": "The successful warrior is the average man, with laser-like focus.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 31,
+                "author": "Coco Chanel",
+                "quote": "Success is often achieved by those who don't know that failure is inevitable.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 32,
+                "author": "Dale Carnegie",
+                "quote": "Develop success from failures. Discouragement and failure are two of the surest stepping stones to success.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 33,
+                "author": "Arnold Schwarzenegger",
+                "quote": "The mind is the limit. As long as the mind can envision the fact that you can do something, you can do it, as long as you really believe 100 percent.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 34,
+                "author": "Cristiano Ronaldo",
+                "quote": "Your love makes me strong. Your hate makes me unstoppable.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 35,
+                "author": "Sheryl Sandberg",
+                "quote": "We need to accept that we won't always make the right decisions, that we'll screw up royally sometimes - understanding that failure is not the opposite of success, it's part of success.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 36,
+                "author": "John Wooden",
+                "quote": "Success is never final, failure is never fatal. It's courage that counts.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 37,
+                "author": "Serena Williams",
+                "quote": "Luck has nothing to do with it because I have spent many, many hours, countless hours, on the court working for my one moment in time, not knowing when it would come.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 38,
+                "author": "Warren Buffett",
+                "quote": "The more you learn, the more you earn.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 39,
+                "author": "Walt Whitman",
+                "quote": "Keep your face always toward the sunshine—and shadows will fall behind you.",
+                "likes": 0,
+                "dislikes": 0
+            },
+            {
+                "id": 40,
+                "author": "Rumi",
+                "quote": "The wound is the place where the light enters you.",
+                "likes": 0,
+                "dislikes": 0
+            }
+        ]
+    }
+}
